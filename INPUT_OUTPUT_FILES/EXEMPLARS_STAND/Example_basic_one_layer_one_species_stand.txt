@@ -1,0 +1,2 @@
+Year,x,y,Age,Species,Management,N,Stool,AvDBH,Height,Lai   
+1992,0,0,100,Fagussylvatica,T,505,0,18.77,16.51,0    # initial year of simulation. 

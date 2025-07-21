@@ -1,0 +1,6 @@
+Year,x,y,Age,Species,Management,N,Stool,AvDBH,Height,Lai   
+1992,0,0,100,Fagussylvatica,T,505,0,18.77,16.51,0    # first year of simulation (compulsory)
+1997,0,0,105,Fagussylvatica,T,500,0,20.20,17.31,0    # Option man = var. From the second available year of data, the model uses only the 
+2002,0,0,110,Fagussylvatica,T,430,0,22.06,18.53,0    # density information. However, in order to be read, all the other info n(Height etc)                                                    
+2007,0,0,115,Fagussylvatica,T,420,0,22.63,18.87,0    # need to be  provided
+2012,0,0,120,Fagussylvatica,T,340,0,25.33,20.66,0

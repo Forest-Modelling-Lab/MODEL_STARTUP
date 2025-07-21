@@ -1,0 +1,4 @@
+Year,x,y,Age,Species,Management,N,Stool,AvDBH,Height,Lai   
+1992,0,0,100,Fagussylvatica,T,505,0,18.77,16.51,0
+1992,0,0,200,PiceaAbies,T,50,0,30.20,20.31,0
+

@@ -1,0 +1,6 @@
+Year,x,y,Age,Species,Management,N,Stool,AvDBH,Height,Lai   
+1992,0,0,100,Fagussylvatica,T,205,0,18.77,16.51,0       # and so on for more species or more layers (PS: data are fake)
+1992,0,0,30,Fagussylvatica,T,100,0,10.00,12.0,0
+1992,0,0,200,PiceaAbies,T,50,0,30.20,20.31,0
+1992,0,0,20,PiceaAbies,T,100,0,8.20,10.00,0
+
