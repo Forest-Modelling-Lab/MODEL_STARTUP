@@ -1,0 +1,5 @@
+Thinning,2029,2035,2060
+Harvesting,2043
+Thinning_int,40,70,40
+
+
